@@ -1,20 +1,20 @@
 <div align="center">
-  
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9D4EDD,7209B7,560BAD,3D0860&height=200&section=header&text=Shdileep&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20AI%2FML%20Specialist%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building%20scalable%20systems%20with%20AI%2FML;Full%20stack%20development%20expertise;Cloud-native%20architecture%20specialist;Open%20source%20contributor;Passionate%20about%20clean%20code)](https://git.io/typing-svg)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9D4EDD,7209B7,560BAD,3D0860&height=200&section=header&text=Dileep+Sai+Galla&fontSize=60&fontAlignY=35&desc=AI%2FML+Engineer+%7C+Full+Stack+Developer+%7C+Agentic+AI+Specialist&descAlignY=55&descAlign=50)
 
-[![Academic Badge](https://img.shields.io/badge/Education-B.Tech%20in%20Computer%20Science-7209B7?style=flat-square&logo=educative&logoColor=white)](https://github.com)
-[![Location](https://img.shields.io/badge/Location-India-9D4EDD?style=flat-square&logo=googlemap&logoColor=white)](https://github.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+%26+LLM+systems;RAG+pipelines+%26+intelligent+automation;Full+stack+development+with+AI+integration;Cloud-native+%26+microservices+architecture;Passionate+about+clean%2C+scalable+code)](https://git.io/typing-svg)
+
+[![Academic Badge](https://img.shields.io/badge/Education-Integrated%20M.Tech%20Software%20Engineering%20%7C%20VIT%20Chennai-7209B7?style=flat-square&logo=educative&logoColor=white)](https://vit.ac.in)
+[![Location](https://img.shields.io/badge/Location-India-9D4EDD?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/shdileep)
 
 <p>
-  <a href="https://shdileep.dev" target="_blank">
+  <a href="https://galladileep.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-560BAD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/shdileep" target="_blank">
+  <a href="https://www.linkedin.com/in/galla-dileep-sai-b85829390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:hello@shdileep.dev" target="_blank">
+  <a href="mailto:dileepgalla200056@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/shdileep" target="_blank">
@@ -32,20 +32,22 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** with deep expertise in **AI/ML systems**, **cloud architecture**, and **scalable product engineering**. With 5+ years of professional experience, I specialize in building production-grade systems that drive business impact and handle millions of requests.
+I'm an **AI/ML Engineer & Full Stack Developer** specializing in **Agentic AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **intelligent automation**. I design AI workflows, optimize retrieval pipelines, integrate enterprise AI solutions, and build scalable, production-ready applications.
+
+Currently pursuing **Integrated M.Tech in Software Engineering** at **Vellore Institute of Technology, Chennai** (CGPA: 8/10, graduating May 2026).
 
 **Engineering Philosophy:**
-- 🏗️ **System Design First** - Architecture that scales
-- 🤖 **AI/ML Integration** - Intelligent features at scale
-- 🔒 **Security Conscious** - Enterprise-grade standards
-- 📊 **Data Driven** - Metrics and observability matter
-- 🚀 **Performance Optimized** - Every millisecond counts
+- 🤖 **Agentic AI First** — Designing autonomous, context-aware AI systems
+- 🏗️ **RAG & LLM Optimization** — Production-grade retrieval and grounding pipelines
+- 🔬 **MLOps & Observability** — Reliable, monitored AI in production
+- 📊 **Data Driven** — Metrics, benchmarks, and test coverage matter
+- 🚀 **Performance Optimized** — Latency and throughput at every layer
 
 **Currently Open To:**
-- 🤝 Collaborations on **AI/ML** and **full-stack** projects
-- 💼 Opportunities in **Senior/Staff Engineer** roles
-- 🌍 Remote and **international** positions
-- 🔬 Research partnerships in **distributed systems** and **AI**
+- 🤝 Collaborations on **Agentic AI**, **LLM**, and **full-stack** projects
+- 💼 Opportunities in **AI/ML Engineer** or **Full Stack Engineer** roles
+- 🌍 Remote and **on-site** positions
+- 🔬 Research partnerships in **distributed AI** and **RAG systems**
 
 ---
 
@@ -53,197 +55,200 @@ I'm a **Full Stack Software Engineer** with deep expertise in **AI/ML systems**,
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,java,cpp,rust,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
 </p>
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,tailwindcss,materialui,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwindcss" />
 </p>
 
-### **Backend & Databases**
+### **Backend & APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgresql,mongodb,redis,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,graphql,postgresql,mongodb,redis" />
 </p>
 
-### **Cloud, DevOps & AI/ML**
+### **AI / ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
+
+> LangChain · LangGraph · RAG · VectorDB (FAISS) · Hugging Face · Agentic AI · Sentence Transformers · LoRA/QLoRA · LlamaIndex
+
+### **Cloud, DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+> CI/CD · GitHub Actions · Pytest · Postman · WebSockets · SSE Streaming
 
 ---
 
 ## 🧠 AI/ML Expertise
 
 | Domain | Proficiency | Details |
-|--------|-----------|---------|
-| **Large Language Models** | Expert | Fine-tuning, RAG systems, prompt engineering, LLM deployment at scale |
-| **Computer Vision** | Advanced | Object detection, image classification, semantic segmentation, YOLO, ResNet |
-| **NLP** | Advanced | Text classification, sentiment analysis, NER, machine translation, embeddings |
-| **ML Engineering** | Expert | MLOps, feature engineering, model serving, A/B testing, real-time inference |
-| **Deep Learning** | Advanced | CNNs, RNNs, Transformers, GANs, attention mechanisms |
-| **Reinforcement Learning** | Intermediate | Q-Learning, policy gradients, multi-agent systems |
+|--------|-------------|---------|
+| **Agentic AI** | Expert | LangGraph pipelines, multi-agent orchestration, autonomous task execution |
+| **Large Language Models** | Expert | Fine-tuning, RAG, prompt engineering, LLM observability, 10+ LLM integrations |
+| **RAG Systems** | Expert | Chunking strategies, FAISS retrieval, reranking, LLM grounding, semantic search |
+| **LLM Fine-Tuning** | Advanced | LoRA/QLoRA, T5, Llama 3, Qwen, Mistral — 2x training speedup achieved |
+| **NLP & Embeddings** | Advanced | Sentence-transformers, ATS parsing, semantic FAISS pipelines |
+| **MLOps** | Advanced | Pytest coverage 85%+, GitHub Actions CI/CD, model observability across pipelines |
 
 ---
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🤖 AI Content Generation Platform</strong></summary>
+<summary><strong>📧 Moxsend AI — AI-Powered Cold Email Automation Platform</strong></summary>
 
-Enterprise-grade AI content generation system powering 10M+ monthly requests with sub-100ms latency.
+AI outreach platform enabling B2B email automation across 140+ concurrent reply pipelines.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Python, FastAPI, PyTorch, Redis, PostgreSQL, AWS Lambda |
-| **Scale** | 10M+ monthly requests, 99.99% uptime |
-| **Performance** | <100ms avg latency, 50K+ concurrent users |
-| **Security** | OAuth 2.0, rate limiting, encryption at rest/transit |
-| **Impact** | 40% improvement in content generation speed |
-| **Repository** | [ai-content-gen](https://github.com/shdileep/ai-content-gen) |
+| **Stack** | Python, FastAPI, LangChain, RAG, GPT-4, Gemini, multilingual embeddings |
+| **Scale** | 140+ concurrent reply pipelines, 14-dimension deliverability engine |
+| **AI** | 4-tier intent classification, 88% positive intent detection |
+| **Features** | Spam-risk assessment, campaign optimization, email scoring |
+| **Status** | Active — May 2026–Present |
 
-**Architecture Highlights:**
-- Distributed inference pipeline with model caching
-- Real-time monitoring with Prometheus & Grafana
-- Horizontal scaling with Kubernetes
-- Advanced caching strategies reducing compute by 60%
+**Highlights:**
+- R&D across GPT-4, Gemini, multilingual embeddings, and RAG pipelines for email intelligence
+- 4-tier intent classification achieving 88% positive intent detection
+- 14-dimension deliverability engine for email scoring and spam-risk assessment
 
 </details>
 
 <details>
-<summary><strong>📊 Real-Time Analytics Engine</strong></summary>
+<summary><strong>🤖 DevAssist AI — Cognitive DevOps & GitHub Optimization Workspace</strong></summary>
 
-High-performance real-time analytics platform processing 1M+ events per second with sub-second query latency.
+AI-powered developer workspace combining semantic code intelligence with DevOps automation.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Go, ClickHouse, Apache Kafka, React, Docker |
-| **Scale** | 1M+ events/sec, petabyte-scale data |
-| **Performance** | <500ms query latency, 99.95% uptime |
-| **Security** | RBAC, audit logging, data encryption |
-| **Impact** | 3x faster insights, 80% cost reduction |
-| **Repository** | [realtime-analytics](https://github.com/shdileep/realtime-analytics) |
+| **Stack** | Spring Boot, FastAPI, PostgreSQL, MongoDB, Redis, Docker, AWS S3 |
+| **AI Models** | CodeBERT, StarCoder2, DeepSeekCoder, TinyLlama (4 self-hosted LLMs) |
+| **Architecture** | 8-service microservices, 54 APIs, LangGraph 7-node debugging pipeline |
+| **Features** | GitHub OAuth, Netlify deployments, secure rollback orchestration |
+| **Infra** | Docker Compose, STOMP WebSockets, SSE streaming, GitHub Actions CI/CD |
+| **Status** | Active — Jan 2025–Present |
 
-**Technical Achievements:**
-- Columnar storage optimization for complex queries
-- Distributed streaming data processing
-- Custom query optimization engine
-- Multi-tenant isolation with data compliance
+**Highlights:**
+- 7-node LangGraph debugging pipeline + LlamaIndex RAG assistant for contextual code retrieval
+- 4 self-hosted LLMs for semantic code intelligence
+- Full CI/CD with containerized 8-service architecture
 
 </details>
 
 <details>
-<summary><strong>🔐 Distributed Authentication Service</strong></summary>
+<summary><strong>🗑️ Ujjwal-Hub — Intelligent Waste Collection & Route Optimization System</strong></summary>
 
-Enterprise authentication system securing 50M+ user accounts with federated identity management.
+Real-time smart city waste management system with AI-powered routing across 20+ zones.
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Rust, PostgreSQL, Redis, gRPC, Kubernetes |
-| **Scale** | 50M+ users, 100K+ auth requests/sec |
-| **Performance** | 50ms avg latency, 99.999% availability |
-| **Security** | MFA, SSO/SAML, zero-knowledge proofs |
-| **Impact** | 99.999% uptime, zero breaches |
-| **Repository** | [auth-service](https://github.com/shdileep/auth-service) |
+| **Stack** | Python, distributed analytics, real-time streaming |
+| **Scale** | 20+ zones, sub-200ms synchronization |
+| **Algorithms** | K-Means, TSP, A*, Dijkstra for route optimization |
+| **Performance** | 35% distance reduction, 30% improved ETA accuracy, 40% travel time reduction |
+| **Infrastructure** | 60% latency reduction, 2× throughput increase |
+| **Status** | Active — Dec 2024–Present |
 
-**Security Features:**
-- Hardware security module integration
-- Continuous threat detection
-- Compliance: SOC 2, ISO 27001, GDPR
-- Advanced rate limiting and DDoS protection
+**Highlights:**
+- Dynamic rerouting with sub-2 sec recomputation
+- Multi-stop optimization with real-time bin monitoring and live driver tracking
+- Patent filed: *System and Method for Optimizing Garbage Collection Operations* [Application No: 202641010900]
+
+</details>
+
+<details>
+<summary><strong>🧠 ResumeAI — Full-Stack LLM Resume Intelligence Platform</strong></summary>
+
+LLM-powered resume analysis and generation tool built during internship at Externsclub.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Python, FastAPI, T5 Transformer, FAISS, sentence-transformers |
+| **AI** | RAG pipeline + T5 fine-tuning, LoRA/QLoRA on Llama 3, Qwen, Mistral |
+| **Performance** | Response time cut from 4.2s → 1.8s; hallucination rate reduced 35% |
+| **Coverage** | 15+ FastAPI endpoints, ATS mismatch rate under 8% |
+
+</details>
+
+<details>
+<summary><strong>🚌 NextTrip — Full-Stack Bus E-Ticketing Platform</strong></summary>
+
+Bus e-ticketing platform with auth, booking, and transaction modules.
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | React, Node.js, PostgreSQL, JWT |
+| **Scale** | 100+ users, 3 backend modules |
+| **Performance** | 20% API latency reduction via query optimization and indexing |
 
 </details>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
-### **Senior Software Engineer** | TechCorp Inc. | 2021 - Present
-Building scalable infrastructure for AI-powered applications serving millions of users globally.
+### **AI/ML Architect & Full Stack Engineer Intern** | Easehawk Technologies Pvt. Ltd. | May 2026 – Present
+*Rohini, Delhi*
 
-**Key Responsibilities:**
-- Architected microservices platform handling 500K+ requests/sec with 99.99% SLA
-- Led ML pipeline optimization reducing inference latency by 70%
-- Mentored team of 5 engineers on system design and best practices
-- Reduced infrastructure costs by $2M annually through optimization
+- Architected 5+ RAG workflows covering chunking, FAISS retrieval, reranking and LLM grounding for **Moxsend AI**
+- Optimised LangGraph Agentic pipelines and Redis caching, lifting API throughput **30%** across 10+ LLMs
+- Engineered 10+ FastAPI REST endpoints for agent execution, RAG retrieval and LLM observability across 3 core services
+- Spearheaded **85%+ test coverage** using Pytest and GitHub Actions CI/CD across 5+ production AI pipelines
 
-**Skills:** System Design · Kubernetes · Python · Go · Machine Learning · AWS
-
----
-
-### **Full Stack Engineer** | InnovateLabs | 2019 - 2021
-Developed full-stack applications with focus on real-time data processing and AI integration.
-
-**Key Responsibilities:**
-- Built real-time dashboard processing 100K+ metrics/sec
-- Implemented ML recommendation engine improving engagement by 45%
-- Established CI/CD pipeline reducing deployment time by 80%
-- Open-sourced 3 major libraries with 5K+ GitHub stars
-
-**Skills:** React · Node.js · Machine Learning · DevOps · Docker
+**Skills:** LangGraph · RAG · FastAPI · Redis · LLM Observability · Pytest · CI/CD
 
 ---
 
-### **Software Engineer** | StartupXYZ | 2018 - 2019
-Full-stack development on backend services and frontend applications.
+### **AI/ML Intern** | Externsclub Pvt. Ltd. | Sep 2023 – Nov 2023
+*Bengaluru, Karnataka*
 
-**Key Responsibilities:**
-- Developed RESTful APIs serving 10K+ concurrent users
-- Optimized database queries improving performance by 60%
-- Implemented real-time notification system
+- Built **ResumeAI**, a full-stack LLM application fusing T5 transformer with RAG pipeline via FastAPI, cutting response time from **4.2s → 1.8s**
+- Slashed Llama 3, Qwen and Mistral training time **2×** via LoRA/QLoRA, reducing hallucination rate by **35%**
+- Administered 15+ FastAPI endpoints for ATS parsing, resume generation and RAG automation with Pytest coverage
+- Rebuilt semantic FAISS pipelines using sentence-transformers, dropping ATS mismatch rate to under **8%**
+- Diagnosed 3-stage retrieval bottlenecks via embedding optimisation, slashing batch runtime by **40s**
 
-**Skills:** Python · FastAPI · React · PostgreSQL · AWS
+**Skills:** LLM Fine-tuning · LoRA/QLoRA · RAG · FAISS · FastAPI · Sentence Transformers
 
 ---
 
-## 🏆 Achievements
+### **Web Development Intern** | Engineer Core | May 2023 – Jul 2023
+*Remote*
 
-<div align="center">
+- Launched **NextTrip**, a full-stack bus e-ticketing platform supporting 100+ users on PostgreSQL-backed architecture
+- Structured 3 backend modules (auth, booking, transactions) using JWT and session-based caching
+- Reduced SQL query overhead, cutting API latency by **20%** via optimization and indexing
+- Enforced data consistency across 4+ workflows, reducing transaction errors notably
+
+**Skills:** React · Node.js · PostgreSQL · JWT · REST APIs
+
+---
+
+## 🏆 Achievements & Activities
 
 | Recognition | Details |
 |------------|---------|
-| **AWS Certified Solutions Architect** | Professional-level certification validating cloud architecture expertise |
-| **Top 0.5% LeetCode Contributor** | 2000+ problems solved, consistent top rankings |
-| **Open Source Impact** | 50K+ stars across repositories, 10+ popular libraries |
-| **Tech Speaker** | 15+ talks at major conferences (PyCon, JSConf, DevOps Days) |
-| **Patents** | 3 patents filed in distributed systems and ML optimization |
-| **Mentorship** | Guided 20+ junior engineers into industry roles |
-
-</div>
+| **Patent Filed** | *System and Method for Optimizing Garbage Collection Operations* — App No: 202641010900 |
+| **Hackathon — CodeMania'26** | 9th place among 200 participants — Cybersecurity CTF competition |
+| **Hackathon — PASSWORD'24** | 6th place among 141 teams — 3-day hackathon: point capture & Linux warfare |
+| **Linux Club VIT Chennai** | Core Member — conducted workshops on automation and Linux systems for 50+ peers |
 
 ---
 
 ## 📜 Certifications
 
-### **AWS**
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Professional-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com)
-[![AWS Developer](https://img.shields.io/badge/AWS%20Developer%20Associate-Certified-FF9900?style=flat-square&logo=amazon-aws)](https://aws.amazon.com)
-
-### **Cloud & DevOps**
-[![CKA](https://img.shields.io/badge/Kubernetes%20Administrator-Certified-326CE5?style=flat-square&logo=kubernetes)](https://kubernetes.io)
-[![Docker](https://img.shields.io/badge/Docker%20Certified%20Associate-Professional-2496ED?style=flat-square&logo=docker)](https://docker.com)
-
-### **AI/ML**
-[![TensorFlow](https://img.shields.io/badge/TensorFlow%20Developer-Certified-FF6F00?style=flat-square&logo=tensorflow)](https://tensorflow.org)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning%20Specialization-Completed-9D4EDD?style=flat-square)](https://coursera.org)
-
----
-
-## 💻 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/shdileep" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Top%200.5%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/shdileep" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Expert-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-  </a>
-  <a href="https://www.hackerrank.com/shdileep" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-5%20Stars-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://www.codechef.com/users/shdileep" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3%20Stars-5B4D3C?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Frontend%20Developer%20(React)-Certified-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20SQL-Certified-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineer%20Intern-HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%20Scrum%20in%20Practice-Certified-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Legacy%20Responsive%20Web%20Design-freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white" />
+  <img src="https://img.shields.io/badge/V8%20GenAI%20Powered%20Data%20Analytics-Certified-9D4EDD?style=flat-square" />
 </p>
 
 ---
@@ -284,25 +289,31 @@ Full-stack development on backend services and frontend applications.
 
 ```yaml
 🚀 Currently Learning:
-  - Advanced Rust Systems Programming
-  - LLM Architecture & Optimization
-  - Distributed Consensus Algorithms
-  - Advanced ML Operations (MLOps)
+  - Advanced LLM Architecture & Optimization
+  - LangGraph Multi-Agent Systems
+  - MLOps & LLM Observability
+  - Distributed AI Systems
 
 🛠️ Currently Building:
-  - Open-source AI framework
-  - Real-time collaborative editor
-  - Distributed database engine
-  - Enterprise observability platform
+  - Moxsend AI — B2B cold email automation with Agentic AI
+  - DevAssist AI — Cognitive DevOps workspace
+  - Ujjwal-Hub — Smart waste collection routing system
 
 🔬 Currently Exploring:
-  - Quantum computing applications
+  - Multilingual LLM embeddings
+  - Advanced RAG retrieval strategies
+  - Self-hosted LLM inference optimization
   - Federated learning systems
-  - Zero-knowledge proofs
-  - Advanced cryptography
 
 🤝 Open To:
-  - Collaborations on cutting-edge projects
-  - Technical mentoring opportunities
-  - Speaking at conferences
-  - Research partnerships
+  - Collaborations on Agentic AI & RAG projects
+  - AI/ML and Full Stack engineering roles
+  - Research partnerships in LLM systems
+  - Open source contributions
+```
+
+---
+
+<div align="center">
+  <i>📬 Reach me at <a href="mailto:dileepgalla200056@gmail.com">dileepgalla200056@gmail.com</a> | 📞 +91 6300668400</i>
+</div>
