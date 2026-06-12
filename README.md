@@ -234,9 +234,7 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 | Recognition | Details |
 |------------|---------|
 | **Patent Filed** | *System and Method for Optimizing Garbage Collection Operations* — App No: 202641010900 |
-| **Hackathon — CodeMania'26** | 9th place among 200 participants — Cybersecurity CTF competition |
-| **Hackathon — PASSWORD'24** | 6th place among 141 teams — 3-day hackathon: point capture & Linux warfare |
-| **Linux Club VIT Chennai** | Core Member — conducted workshops on automation and Linux systems for 50+ peers |
+
 
 ---
 
