@@ -318,5 +318,3 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 
 
 test-sync-13:16 (Auto-sync verification via DevAssist AI)
-
-test-sync-13:16 (Auto-sync verification via DevAssist AI)
