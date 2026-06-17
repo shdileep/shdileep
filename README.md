@@ -19,7 +19,7 @@
   </a>
   <a href="https://github.com/shdileep" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  </a
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shdileep&style=flat-square&color=7209B7)](https://github.com/shdileep)
