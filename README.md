@@ -265,9 +265,6 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 
 ---
 
-## 🎖️ GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=shdileep&theme=tokyonight&column=8&margin-w=5&margin-h=5)](https://github.com/shdileep)
 
 ---
 
@@ -277,9 +274,6 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 
 ---
 
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/shdileep/shdileep/raw/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
