@@ -310,5 +310,3 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
   <i>📬 Reach me at <a href="mailto:dileepgalla200056@gmail.com">dileepgalla200056@gmail.com</a></i>
 </div>
 
-
-test-sync-13:16 (Auto-sync verification via DevAssist AI)
