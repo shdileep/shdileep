@@ -190,43 +190,6 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 
 ---
 
-## 💼 Work Experience
-
-### **AI/ML Architect & Full Stack Engineer Intern** | Easehawk Technologies Pvt. Ltd. | May 2026 – Present
-*Rohini, Delhi*
-
-- Architected 5+ RAG workflows covering chunking, FAISS retrieval, reranking and LLM grounding for **Moxsend AI**
-- Optimised LangGraph Agentic pipelines and Redis caching, lifting API throughput **30%** across 10+ LLMs
-- Engineered 10+ FastAPI REST endpoints for agent execution, RAG retrieval and LLM observability across 3 core services
-- Spearheaded **85%+ test coverage** using Pytest and GitHub Actions CI/CD across 5+ production AI pipelines
-
-**Skills:** LangGraph · RAG · FastAPI · Redis · LLM Observability · Pytest · CI/CD
-
----
-
-### **AI/ML Intern** | Externsclub Pvt. Ltd. | Sep 2023 – Nov 2023
-*Bengaluru, Karnataka*
-
-- Built **ResumeAI**, a full-stack LLM application fusing T5 transformer with RAG pipeline via FastAPI, cutting response time from **4.2s → 1.8s**
-- Slashed Llama 3, Qwen and Mistral training time **2×** via LoRA/QLoRA, reducing hallucination rate by **35%**
-- Administered 15+ FastAPI endpoints for ATS parsing, resume generation and RAG automation with Pytest coverage
-- Rebuilt semantic FAISS pipelines using sentence-transformers, dropping ATS mismatch rate to under **8%**
-- Diagnosed 3-stage retrieval bottlenecks via embedding optimisation, slashing batch runtime by **40s**
-
-**Skills:** LLM Fine-tuning · LoRA/QLoRA · RAG · FAISS · FastAPI · Sentence Transformers
-
----
-
-### **Web Development Intern** | Engineer Core | May 2023 – Jul 2023
-*Remote*
-
-- Launched **NextTrip**, a full-stack bus e-ticketing platform supporting 100+ users on PostgreSQL-backed architecture
-- Structured 3 backend modules (auth, booking, transactions) using JWT and session-based caching
-- Reduced SQL query overhead, cutting API latency by **20%** via optimization and indexing
-- Enforced data consistency across 4+ workflows, reducing transaction errors notably
-
-**Skills:** React · Node.js · PostgreSQL · JWT · REST APIs
-
 ---
 
 ## 🏆 Achievements & Activities
