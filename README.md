@@ -1,25 +1,25 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9D4EDD,7209B7,560BAD,3D0860&height=200&section=header&text=Dileep+Sai+Galla&fontSize=60&fontAlignY=35&desc=AI%2FML+Engineer+%7C+Full+Stack+Developer+%7C+Agentic+AI+Specialist&descAlignY=55&descAlign=50)
+<img src="./assets/hero.svg?v=1" width="100%" alt="Dileep Sai Galla banner" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+%26+LLM+systems;RAG+pipelines+%26+intelligent+automation;Full+stack+development+with+AI+integration;Cloud-native+%26+microservices+architecture;Passionate+about+clean%2C+scalable+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+Agentic+AI+%26+LLM+systems;RAG+pipelines+for+real+products;Full-stack+engineering+with+AI+at+the+core)](https://github.com/shdileep)
 
-[![Academic Badge](https://img.shields.io/badge/Education-Integrated%20M.Tech%20Software%20Engineering%20%7C%20VIT%20Chennai-7209B7?style=flat-square&logo=educative&logoColor=white)](https://vit.ac.in)
+[![Academic Badge](https://img.shields.io/badge/Education-Integrated%20M.Tech%20Software%20Engineering%20%7C%20VIT%20Chennai-7209B7?style=flat-square&logo=educative&logoColor=white)](https://vit.ac.in/)
 [![Location](https://img.shields.io/badge/Location-India-9D4EDD?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/shdileep)
 
 <p>
   <a href="https://galladileep.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-560BAD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-560BAD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/galla-dileep-sai-b85829390/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dileepgalla200056@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/shdileep" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shdileep&style=flat-square&color=7209B7)](https://github.com/shdileep)
@@ -32,50 +32,50 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI/ML Engineer & Full Stack Developer** specializing in **Agentic AI**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **intelligent automation**. I design AI workflows, optimize retrieval pipelines, integrate enterprise AI solutions, and build scalable, production-ready applications.
+I'm an AI/ML Engineer and Full Stack Developer specializing in Agentic AI, Large Language Models, Retrieval-Augmented Generation, and intelligent automation. I design and build systems that combine reasoning, retrieval, orchestration, and production-grade engineering.
 
-Currently pursuing **Integrated M.Tech in Software Engineering** at **Vellore Institute of Technology, Chennai** (CGPA: 8/10, graduating May 2026).
+Currently pursuing Integrated M.Tech in Software Engineering at VIT Chennai.
 
 **Engineering Philosophy:**
-- 🤖 **Agentic AI First** — Designing autonomous, context-aware AI systems
-- 🏗️ **RAG & LLM Optimization** — Production-grade retrieval and grounding pipelines
-- 🔬 **MLOps & Observability** — Reliable, monitored AI in production
-- 📊 **Data Driven** — Metrics, benchmarks, and test coverage matter
-- 🚀 **Performance Optimized** — Latency and throughput at every layer
+- 🤖 Agentic AI-first design
+- 🏗️ RAG and LLM optimization for production
+- 🔬 MLOps and observability
+- 📊 Data-driven decisions and metrics
+- 🚀 Performance-optimized systems
 
 **Currently Open To:**
-- 🤝 Collaborations on **Agentic AI**, **LLM**, and **full-stack** projects
-- 💼 Opportunities in **AI/ML Engineer** or **Full Stack Engineer** roles
-- 🌍 Remote and **on-site** positions
-- 🔬 Research partnerships in **distributed AI** and **RAG systems**
+- 🤝 Collaborations on Agentic AI, LLM, and full-stack projects
+- 💼 AI/ML Engineer and Full Stack Engineer roles
+- 🌍 Remote and on-site opportunities
+- 🔬 Research partnerships in distributed AI and RAG systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
 </p>
 
-### **Frontend**
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwindcss" />
 </p>
 
-### **Backend & APIs**
+### Backend & APIs
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,spring,graphql,postgresql,mongodb,redis" />
 </p>
 
-### **AI / ML**
+### AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 > LangChain · LangGraph · RAG · VectorDB (FAISS) · Hugging Face · Agentic AI · Sentence Transformers · LoRA/QLoRA · LlamaIndex
 
-### **Cloud, DevOps & Tools**
+### Cloud, DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
@@ -84,120 +84,16 @@ Currently pursuing **Integrated M.Tech in Software Engineering** at **Vellore In
 
 ---
 
-## 🧠 AI/ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Agentic AI** | Expert | LangGraph pipelines, multi-agent orchestration, autonomous task execution |
-| **Large Language Models** | Expert | Fine-tuning, RAG, prompt engineering, LLM observability, 10+ LLM integrations |
-| **RAG Systems** | Expert | Chunking strategies, FAISS retrieval, reranking, LLM grounding, semantic search |
-| **LLM Fine-Tuning** | Advanced | LoRA/QLoRA, T5, Llama 3, Qwen, Mistral — 2x training speedup achieved |
-| **NLP & Embeddings** | Advanced | Sentence-transformers, ATS parsing, semantic FAISS pipelines |
-| **MLOps** | Advanced | Pytest coverage 85%+, GitHub Actions CI/CD, model observability across pipelines |
-
----
-
 ## 🚀 Featured Projects
 
-<details>
-<summary><strong>📧 Moxsend AI — AI-Powered Cold Email Automation Platform</strong></summary>
-
-AI outreach platform enabling B2B email automation across 140+ concurrent reply pipelines.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python, FastAPI, LangChain, RAG, GPT-4, Gemini, multilingual embeddings |
-| **Scale** | 140+ concurrent reply pipelines, 14-dimension deliverability engine |
-| **AI** | 4-tier intent classification, 88% positive intent detection |
-| **Features** | Spam-risk assessment, campaign optimization, email scoring |
-| **Status** | Active — May 2026–Present |
-
-**Highlights:**
-- R&D across GPT-4, Gemini, multilingual embeddings, and RAG pipelines for email intelligence
-- 4-tier intent classification achieving 88% positive intent detection
-- 14-dimension deliverability engine for email scoring and spam-risk assessment
-
-</details>
-
-<details>
-<summary><strong>🤖 DevAssist AI — Cognitive DevOps & GitHub Optimization Workspace</strong></summary>
-
-AI-powered developer workspace combining semantic code intelligence with DevOps automation.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Spring Boot, FastAPI, PostgreSQL, MongoDB, Redis, Docker, AWS S3 |
-| **AI Models** | CodeBERT, StarCoder2, DeepSeekCoder, TinyLlama (4 self-hosted LLMs) |
-| **Architecture** | 8-service microservices, 54 APIs, LangGraph 7-node debugging pipeline |
-| **Features** | GitHub OAuth, Netlify deployments, secure rollback orchestration |
-| **Infra** | Docker Compose, STOMP WebSockets, SSE streaming, GitHub Actions CI/CD |
-| **Status** | Active — Jan 2025–Present |
-
-**Highlights:**
-- 7-node LangGraph debugging pipeline + LlamaIndex RAG assistant for contextual code retrieval
-- 4 self-hosted LLMs for semantic code intelligence
-- Full CI/CD with containerized 8-service architecture
-
-</details>
-
-<details>
-<summary><strong>🗑️ Ujjwal-Hub — Intelligent Waste Collection & Route Optimization System</strong></summary>
-
-Real-time smart city waste management system with AI-powered routing across 20+ zones.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python, distributed analytics, real-time streaming |
-| **Scale** | 20+ zones, sub-200ms synchronization |
-| **Algorithms** | K-Means, TSP, A*, Dijkstra for route optimization |
-| **Performance** | 35% distance reduction, 30% improved ETA accuracy, 40% travel time reduction |
-| **Infrastructure** | 60% latency reduction, 2× throughput increase |
-| **Status** | Active — Dec 2024–Present |
-
-**Highlights:**
-- Dynamic rerouting with sub-2 sec recomputation
-- Multi-stop optimization with real-time bin monitoring and live driver tracking
-- Patent filed: *System and Method for Optimizing Garbage Collection Operations* [Application No: 202641010900]
-
-</details>
-
-<details>
-<summary><strong>🧠 ResumeAI — Full-Stack LLM Resume Intelligence Platform</strong></summary>
-
-LLM-powered resume analysis and generation tool built during internship at Externsclub.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | Python, FastAPI, T5 Transformer, FAISS, sentence-transformers |
-| **AI** | RAG pipeline + T5 fine-tuning, LoRA/QLoRA on Llama 3, Qwen, Mistral |
-| **Performance** | Response time cut from 4.2s → 1.8s; hallucination rate reduced 35% |
-| **Coverage** | 15+ FastAPI endpoints, ATS mismatch rate under 8% |
-
-</details>
-
-<details>
-<summary><strong>🚌 NextTrip — Full-Stack Bus E-Ticketing Platform</strong></summary>
-
-Bus e-ticketing platform with auth, booking, and transaction modules.
-
-| Aspect | Details |
-|--------|---------|
-| **Stack** | React, Node.js, PostgreSQL, JWT |
-| **Scale** | 100+ users, 3 backend modules |
-| **Performance** | 20% API latency reduction via query optimization and indexing |
-
-</details>
-
----
-
----
-
-## 🏆 Achievements & Activities
-
-| Recognition | Details |
-|------------|---------|
-| **Patent Filed** | *System and Method for Optimizing Garbage Collection Operations* — App No: 202641010900 |
-
+| Project | Description | Link |
+|--------|-------------|------|
+| Moxsend AI | AI-powered cold email automation platform | [GitHub](https://github.com/shdileep/Moxsend) |
+| DevAssist AI | Cognitive DevOps and GitHub optimization workspace | [GitHub](https://github.com/shdileep/dev) |
+| Ujjwal-Hub | Smart waste collection and route optimization system | [GitHub](https://github.com/shdileep/ujjwalHUB) |
+| ResumeAI | LLM-powered resume intelligence platform | [GitHub](https://github.com/shdileep/ResumeAI) |
+| NexaCart | E-commerce and shopping platform | [GitHub](https://github.com/shdileep/NexaCart) |
+| Finance-Data-Hub | Finance and data analytics dashboard | [GitHub](https://github.com/shdileep/Finance-Data-Hub) |
 
 ---
 
@@ -218,9 +114,9 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shdileep&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=7209B7&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363d&rank_icon=github)](https://github.com/shdileep)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shdileep&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=7209B7&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363d)](https://github.com/shdileep)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shdileep&theme=tokyonight&background=0d1117&border=30363d&ring=7209B7&fire=9D4EDD&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9)](https://github.com/shdileep)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shdileep&theme=tokyonight&background=0d1117&border=30363d&ring=7209B7&fire=9D4EDD&currStreakNum=c9d1d9&sideNums=c9d1d9)](https://github.com/shdileep)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shdileep&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7209B7&text_color=c9d1d9&border_color=30363d)](https://github.com/shdileep)
 
@@ -228,15 +124,9 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
 
 ---
 
-
----
-
 ## 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shdileep&theme=react-dark&bg_color=0d1117&line=7209B7&point=9D4EDD&area=true&hide_border=true)](https://github.com/shdileep)
-
----
-
 
 ---
 
@@ -250,9 +140,9 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
   - Distributed AI Systems
 
 🛠️ Currently Building:
-  - Moxsend AI — B2B cold email automation with Agentic AI
-  - DevAssist AI — Cognitive DevOps workspace
-  - Ujjwal-Hub — Smart waste collection routing system
+  - Moxsend AI
+  - DevAssist AI
+  - Ujjwal-Hub
 
 🔬 Currently Exploring:
   - Multilingual LLM embeddings
@@ -265,11 +155,3 @@ Bus e-ticketing platform with auth, booking, and transaction modules.
   - AI/ML and Full Stack engineering roles
   - Research partnerships in LLM systems
   - Open source contributions
-```
-
----
-
-<div align="center">
-  <i>📬 Reach me at <a href="mailto:dileepgalla200056@gmail.com">dileepgalla200056@gmail.com</a></i>
-</div>
-
