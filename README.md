@@ -1,158 +1,87 @@
-Create a premium, modern GitHub Profile README for Dileep Sai.
+<div align="center">
 
-Goal:
-Make the profile look like an AI engineer's product portfolio, not a generic
-developer resume or a collection of badges.
+<img src="./assets/hero-banner.svg?v=1" width="100%" alt="Dileep Sai - AI Engineer" />
 
-PERSONAL POSITIONING:
-Name: Dileep Sai
-Role: AI Engineer / Backend Developer
-Focus: Agentic AI, LLM applications, backend systems, RAG and AI products
+</div>
 
-INTRO:
-Create a strong one-line positioning statement:
-"Building AI products, agentic workflows and backend systems that turn LLMs
-into usable software."
+> Building AI products, agentic workflows and backend systems that turn LLMs into usable software.
 
-DESIGN DIRECTION:
-- Premium dark-first developer aesthetic
-- Minimal, sharp and professional
-- Strong typography
-- Subtle animated SVG elements
-- Terminal/editorial/AI-lab visual language
-- No excessive gradients
-- No giant badge walls
-- No generic cartoon developer graphics
-- No contribution-city section
-- No fake metrics
-- No exaggerated claims
-- Must remain readable on GitHub mobile and desktop
-- Support GitHub light/dark mode where practical
+## About
 
-HERO:
-Create an animated SVG hero section containing:
-DILEEP SAI
-AI ENGINEER · BACKEND DEVELOPER · AGENTIC AI BUILDER
+I build practical AI applications using LLMs, agentic workflows, RAG systems, and backend infrastructure to turn ideas into real software products.
 
-Use subtle motion such as:
-- cursor/typing effect
-- terminal-style activity
-- small AI/network particles
-- restrained scan/grid effect
+## Currently Building
 
-ABOUT:
-Keep this extremely short.
-Mention that I build practical AI applications using LLMs, agentic workflows,
-RAG and backend systems.
+<div align="left">
 
-CURRENTLY BUILDING:
-Show three product cards:
+<table>
+  <tr>
+    <td width="33%">
+      <strong>RenoCred</strong><br>
+      AI credit-card intelligence / AI credit-card copilot<br><br>
+      <a href="https://www.renocred.com/" target="_blank">Website</a>
+    </td>
+    <td width="33%">
+      <strong>Zavran AI</strong><br>
+      Agentic AI mock interview platform<br><br>
+      <a href="https://zavran-ai.vercel.app/index.html" target="_blank">Live Demo</a>
+    </td>
+    <td width="33%">
+      <strong>Shubh AI Studio</strong><br>
+      AI-powered app/code builder<br><br>
+      <a href="https://github.com/shdileep/Shubh-AI-Studio" target="_blank">GitHub</a>
+    </td>
+  </tr>
+</table>
 
-1. RenoCred
-AI credit-card intelligence / AI credit-card copilot
-Link: https://www.renocred.com/
+</div>
 
-2. Zavran AI
-Agentic AI mock interview platform
-Link: https://zavran-ai.vercel.app/index.html
+## Selected Projects
 
-3. Shubh AI Studio
-AI-powered app/code builder
-GitHub: https://github.com/shdileep/Shubh-AI-Studio
+| Project | What it does | Stack / use case | Links |
+| --- | --- | --- | --- |
+| Moxsend | AI-powered outreach and workflow automation product for intelligent communication and execution. | Python, FastAPI, AI workflows, backend automation | [GitHub](https://github.com/shdileep/Moxsend) |
+| MoxQuote | AI-assisted quoting and decision-support system for fast, context-aware business workflows. | Python, FastAPI, AI apps, backend tooling | Private project |
+| HireZeno | AI-driven hiring and interview workflow product focused on candidate evaluation and screening. | Python, AI workflows, backend systems | [GitHub](https://github.com/shdileep/HireZeno-2.O) |
+| Satvora | Practical AI product work focused on backend systems and product workflows. | AI applications, backend architecture, product engineering | Private project |
+| Zavran AI | Agentic AI mock interview platform for realistic interview preparation and evaluation. | AI agents, interview workflows, full-stack product engineering | [Live Demo](https://zavran-ai.vercel.app/index.html) |
+| Shubh AI Studio | AI-powered app and code builder for rapid product prototyping. | AI app builder, agentic product workflows, tooling | [GitHub](https://github.com/shdileep/Shubh-AI-Studio) |
 
-PROJECTS:
-Include selected real projects only.
-Each project must have:
-- project name
-- one-line explanation
-- technology/use-case
-- GitHub link where available
-- live demo where available
+## Experience
 
-Include:
-Moxsend
-MoxQuote
-HireZeno
-Satvora
-Zavran AI
-Shubh AI Studio
-
-TECH:
-Organize technologies by practical categories instead of one huge list:
-
-AI / LLM:
-LangChain, LangGraph, RAG, Hugging Face, PyTorch,
-Vector DB, Agentic AI, Prompt Engineering
-
-Backend:
-Python, FastAPI, Node.js, Spring Boot, REST, GraphQL
-
-Data:
-PostgreSQL, SQL, Redis, FAISS, Qdrant, pgvector
-
-Frontend:
-React, Next.js, Vue, Tailwind
-
-Cloud / DevOps:
-AWS, Docker, Git, CI/CD
-
-EXPERIENCE:
-Keep concise and factual.
-
-RenoCred — Backend Developer
+### RenoCred — Backend Developer
 Building Taqdeer, an AI credit-card intelligence product.
 
-EaseHawk — AI/ML Architect & Full Stack Engineer Intern
+### EaseHawk — AI/ML Architect & Full Stack Engineer Intern
 Built Moxsend and MoxQuote for an international client.
 
-Externeclub — AI/ML Intern
+### Externeclub — AI/ML Intern
 Worked on ResumeAI and NLP/ML systems.
 
-SOCIAL / CONNECT:
-Create actual clickable Markdown links BELOW the visual connect section.
-Do NOT place links only inside SVG because SVG links are not reliably clickable
-when rendered through GitHub images.
+## Tech Stack
 
-Include:
-GitHub: https://github.com/shdileep
-Portfolio: https://galladileep.netlify.app/
+### AI / LLM
+LangChain, LangGraph, RAG, Hugging Face, PyTorch, Vector DB, Agentic AI, Prompt Engineering
 
-README STRUCTURE:
+### Backend
+Python, FastAPI, Node.js, Spring Boot, REST, GraphQL
 
-1. Animated hero
-2. One-line positioning
-3. About / current focus
-4. Selected AI products
-5. Projects
-6. Experience
-7. Tech stack
-8. Connect
-9. Minimal footer
+### Data
+PostgreSQL, SQL, Redis, FAISS, Qdrant, pgvector
 
-IMPORTANT:
-The profile should communicate the following within 10 seconds:
+### Frontend
+React, Next.js, Vue, Tailwind
 
-WHO:
-Dileep Sai — AI Engineer / Backend Developer
+### Cloud / DevOps
+AWS, Docker, Git, CI/CD
 
-WHAT:
-Builds AI products, agentic systems and backend infrastructure
+## Connect
 
-PROOF:
-RenoCred, Zavran AI, Shubh AI Studio, Moxsend, MoxQuote, HireZeno
+- [GitHub](https://github.com/shdileep)
+- [Portfolio](https://galladileep.netlify.app/)
 
-HOW:
-Python, FastAPI, LangGraph, RAG, LLMs, PostgreSQL, AWS, Docker
+---
 
-Avoid:
-- "passionate developer"
-- "hardworking"
-- "always eager to learn"
-- huge skill badge walls
-- fake GitHub statistics
-- unnecessary visitor counters
-- generic motivational quotes
-- excessive emojis
-- fake percentages
-- irrelevant certificates
-- contribution city
+<div align="center">
+  <sub>AI Engineer / Backend Developer • Agentic AI • LLM products • Backend systems</sub>
+</div>
