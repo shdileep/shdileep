@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1400 300" role="img" aria-label="Dileep Sai - AI Engineer">
+  <defs>
+    <style>
+      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+      @keyframes scan { 0% { transform: translateY(-100%); } 100% { transform: translateY(100%); } }
+      .float { animation: float 6s ease-in-out infinite; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .scan-line { animation: scan 2.5s linear infinite; opacity: 0.15; }
+    </style>
+    
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f1629;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="shadowDepth">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1400" height="300" fill="url(#bgGrad)"/>
+  
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03" stroke="#7c3aed">
+    <line x1="0" y1="0" x2="0" y2="300"/>
+    <line x1="140" y1="0" x2="140" y2="300"/>
+    <line x1="280" y1="0" x2="280" y2="300"/>
+    <line x1="420" y1="0" x2="420" y2="300"/>
+    <line x1="560" y1="0" x2="560" y2="300"/>
+    <line x1="700" y1="0" x2="700" y2="300"/>
+    <line x1="840" y1="0" x2="840" y2="300"/>
+    <line x1="980" y1="0" x2="980" y2="300"/>
+    <line x1="1120" y1="0" x2="1120" y2="300"/>
+    <line x1="1260" y1="0" x2="1260" y2="300"/>
+    <line x1="1400" y1="0" x2="1400" y2="300"/>
+    
+    <line x1="0" y1="75" x2="1400" y2="75"/>
+    <line x1="0" y1="150" x2="1400" y2="150"/>
+    <line x1="0" y1="225" x2="1400" y2="225"/>
+    <line x1="0" y1="300" x2="1400" y2="300"/>
+  </g>
+  
+  <!-- Animated scan line -->
+  <g class="scan-line">
+    <line x1="0" y1="150" x2="1400" y2="150" stroke="#7c3aed" stroke-width="1"/>
+  </g>
+  
+  <!-- Left accent particle -->
+  <g class="float" filter="url(#glow)">
+    <circle cx="80" cy="100" r="6" fill="#7c3aed" opacity="0.6"/>
+  </g>
+  
+  <!-- Right accent particle -->
+  <g class="pulse" filter="url(#glow)">
+    <circle cx="1320" cy="220" r="4" fill="#3b82f6" opacity="0.5"/>
+  </g>
+  
+  <!-- Main content container -->
+  <g filter="url(#shadowDepth)">
+    <!-- Background card -->
+    <rect x="60" y="40" width="1280" height="220" rx="12" fill="#0f1629" opacity="0.5" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.2"/>
+  </g>
+  
+  <!-- Vertical accent line -->
+  <line x1="100" y1="60" x2="100" y2="260" stroke="url(#accentGrad)" stroke-width="2" opacity="0.4"/>
+  
+  <!-- Title and subtitle -->
+  <g>
+    <!-- Main name -->
+    <text x="140" y="95" font-family="'Segoe UI', 'Helvetica Neue', -apple-system, sans-serif" font-size="52" font-weight="700" fill="#f0f9ff" letter-spacing="-1">
+      DILEEP SAI
+    </text>
+    
+    <!-- Subtitle with gradient effect -->
+    <text x="140" y="145" font-family="'Segoe UI', 'Helvetica Neue', -apple-system, sans-serif" font-size="20" font-weight="500" fill="#94a3b8">
+      AI ENGINEER · BACKEND DEVELOPER
+    </text>
+    <text x="140" y="175" font-family="'Segoe UI', 'Helvetica Neue', -apple-system, sans-serif" font-size="18" font-weight="400" fill="#7c3aed">
+      Agentic AI · LLM Products · Backend Systems
+    </text>
+    
+    <!-- Accent line under subtitle -->
+    <line x1="140" y1="190" x2="420" y2="190" stroke="url(#accentGrad)" stroke-width="2"/>
+    
+    <!-- Status badge -->
+    <g>
+      <rect x="140" y="210" width="280" height="32" rx="6" fill="rgba(124, 58, 237, 0.1)" stroke="#7c3aed" stroke-width="1" stroke-opacity="0.3"/>
+      <text x="160" y="232" font-family="'Courier New', monospace" font-size="14" font-weight="500" fill="#c4b5fd">
+        Building AI products in production
+      </text>
+    </g>
+  </g>
+  
+  <!-- Right side highlights -->
+  <g opacity="0.8">
+    <rect x="980" y="70" width="310" height="170" rx="8" fill="rgba(30, 58, 138, 0.3)" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.2"/>
+    
+    <!-- Stats columns -->
+    <g>
+      <text x="1010" y="100" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="2">
+        FOCUS AREAS
+      </text>
+      <text x="1010" y="128" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="700" fill="#e0f2fe">
+        Agentic AI
+      </text>
+      <text x="1010" y="150" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#cbd5e1">
+        LLM Applications
+      </text>
+      <text x="1010" y="170" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#cbd5e1">
+        RAG Systems
+      </text>
+      <text x="1010" y="190" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#cbd5e1">
+        Backend Infrastructure
+      </text>
+      <text x="1010" y="210" font-family="'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="#cbd5e1">
+        Production Systems
+      </text>
+    </g>
+    
+    <!-- Right divider -->
+    <line x1="1240" y1="75" x2="1240" y2="225" stroke="#3b82f6" stroke-width="1" opacity="0.2"/>
+    
+    <!-- Quick stats -->
+    <g>
+      <text x="1270" y="100" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="2">
+        PRODUCTS
+      </text>
+      <text x="1270" y="130" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#7c3aed">
+        3
+      </text>
+      <text x="1270" y="150" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="400" fill="#cbd5e1">
+        In production
+      </text>
+      
+      <text x="1270" y="185" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="2">
+        PROJECTS
+      </text>
+      <text x="1270" y="215" font-family="'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#3b82f6">
+        6+
+      </text>
+    </g>
+  </g>
+</svg>
