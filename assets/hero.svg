@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-label="Dileep Sai Galla banner">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#080b15"/>
+      <stop offset="50%" stop-color="#120d25"/>
+      <stop offset="100%" stop-color="#0a1320"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1">
+      <stop offset="0%" stop-color="#131b2d" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.94"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1400" height="420" fill="url(#bg)"/>
+  <g opacity="0.13">
+    <circle cx="1200" cy="90" r="90" fill="#7c3aed"/>
+    <circle cx="1320" cy="300" r="120" fill="#22d3ee"/>
+    <circle cx="180" cy="330" r="110" fill="#f472b6"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="80" y="80" width="1240" height="260" rx="26" fill="url(#card)" stroke="rgba(255,255,255,0.12)"/>
+  </g>
+  <g transform="translate(110 118)">
+    <circle cx="90" cy="80" r="72" fill="url(#glow)" opacity="0.95"/>
+    <circle cx="90" cy="80" r="56" fill="#0b1220" stroke="#9ae6ff" stroke-width="3"/>
+    <path d="M70 95 L90 52 L110 95" fill="none" stroke="#e2e8f0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M82 78 H98" stroke="#e2e8f0" stroke-width="8" stroke-linecap="round"/>
+    <path d="M60 110 C75 125, 105 125, 120 110" fill="none" stroke="#7dd3fc" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(280 120)">
+    <text x="0" y="70" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="54" fill="#f8fafc" letter-spacing="1.2">Dileep Sai Galla</text>
+    <text x="0" y="122" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="24" fill="#c4b5fd">AI • ML • Full-Stack Engineer</text>
+    <rect x="0" y="150" width="350" height="10" rx="5" fill="url(#glow)" opacity="0.9"/>
+    <text x="0" y="205" font-family="Segoe UI, Arial, sans-serif" font-weight="500" font-size="22" fill="#dbeafe">Agentic AI • RAG • LLM Systems</text>
+    <text x="0" y="238" font-family="Segoe UI, Arial, sans-serif" font-weight="500" font-size="18" fill="#a7f3d0">Building reliable, production-ready AI experiences</text>
+  </g>
+  <g transform="translate(980 134)">
+    <g>
+      <rect x="0" y="0" width="160" height="78" rx="14" fill="#0f172a" stroke="#4ade80" stroke-opacity="0.8"/>
+      <text x="80" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#86efac">Projects</text>
+      <text x="80" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f8fafc">12+</text>
+    </g>
+    <g transform="translate(180 0)">
+      <rect x="0" y="0" width="170" height="78" rx="14" fill="#0f172a" stroke="#60a5fa" stroke-opacity="0.8"/>
+      <text x="85" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#93c5fd">LLM Stack</text>
+      <text x="85" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f8fafc">8+</text>
+    </g>
+    <g transform="translate(0 108)">
+      <rect x="0" y="0" width="180" height="78" rx="14" fill="#0f172a" stroke="#c084fc" stroke-opacity="0.8"/>
+      <text x="90" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ddd6fe">Focus</text>
+      <text x="90" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#f8fafc">AI Agents</text>
+    </g>
+    <g transform="translate(200 108)">
+      <rect x="0" y="0" width="170" height="78" rx="14" fill="#0f172a" stroke="#f9a8d4" stroke-opacity="0.8"/>
+      <text x="85" y="30" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fbcfe8">Location</text>
+      <text x="85" y="56" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f8fafc">India</text>
+    </g>
+  </g>
+</svg>
