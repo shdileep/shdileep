@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 338" width="880" height="338" role="img" aria-label="AI &amp; Agentic Stack: 16 Core AI Tools in White Card Boxes with Exact Icons"><defs><style>.h{font-family:'Bebas Neue','Barlow Condensed','Oswald',Impact,'Arial Narrow',sans-serif;font-weight:700}.b{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}</style></defs><rect width="880" height="338" rx="16" fill="#070b18"/>
+    <rect x="1.5" y="1.5" width="877" height="335" rx="15" fill="#080e22" stroke="#8b5cf6" stroke-width="2.2"/>
+    <text x="32" y="46" class="h" font-size="28" fill="#f4f7ff">AI &amp; AGENTIC <tspan fill="#8b5cf6">STACK.</tspan></text>
+    <text x="848" y="44" class="m" font-size="11" fill="#8391b8" letter-spacing="1.2" text-anchor="end">LLMS · MULTI-AGENT SYSTEMS · RAG · VECTOR DB</text>
+    
+    <!-- Static grid of 16 AI white card boxes with green status dots -->
+    
+        <g transform="translate(32, 80)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3.2c1.2 0 2.3.4 3.2 1.1l-1.3 1.3c-.6-.4-1.2-.6-1.9-.6-2.1 0-3.8 1.7-3.8 3.8 0 .5.1 1 .3 1.4L7.1 13.6C6.7 13.1 6.4 12.5 6.4 12c0-3.1 2.5-5.6 5.6-5.6zm5.8 7.6c-.3 1.4-1.1 2.6-2.2 3.4l-1.3-1.3c.7-.5 1.2-1.3 1.4-2.1h2.1zm-7.6 4c-.7 0-1.4-.2-2-.6l1.3-1.3c.2.1.4.1.7.1 2.1 0 3.8-1.7 3.8-3.8 0-.5-.1-1-.3-1.4l1.4-1.4c.4.8.7 1.8.7 2.8 0 3.1-2.5 5.6-5.6 5.6z" fill="#10a37f"/><circle cx="12" cy="12" r="3" fill="#10a37f"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">OpenAI</text>
+        </g>
+        
+        <g transform="translate(240, 80)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <circle cx="12" cy="12" r="10" fill="#D97757"/><path d="M12 5.5v13M5.5 12h13M7.4 7.4l9.2 9.2M16.6 7.4l-9.2 9.2" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">Claude</text>
+        </g>
+        
+        <g transform="translate(448, 80)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <defs><linearGradient id="gg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1ba0f2"/><stop offset="50%" stop-color="#805ad5"/><stop offset="100%" stop-color="#d53f8c"/></linearGradient></defs><path d="M12 2C12 7.5 7.5 12 2 12c4.5 0 10 4.5 10 10 0-5.5 5.5-10 10-10-4.5 0-10-4.5-10-10z" fill="url(#gg)"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">Gemini</text>
+        </g>
+        
+        <g transform="translate(656, 80)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="5" fill="#1e88e5"/><path d="M4 14c2-5 7-9 13-7-2 1.5-3 4-3.5 7-1.5-.5-3-.5-4.5.5-1.5 1-2.5 2.5-3.5 4.5l-1.5-5z" fill="#ffffff"/><circle cx="15" cy="8.5" r="1.3" fill="#1e88e5"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">DeepSeek</text>
+        </g>
+        
+        <g transform="translate(32, 142)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#0f172a"/><circle cx="6.5" cy="7" r="3" fill="#22c55e"/><circle cx="17.5" cy="8.5" r="2.8" fill="#3b82f6"/><circle cx="12" cy="17" r="3" fill="#a855f7"/><line x1="6.5" y1="7" x2="17.5" y2="8.5" stroke="#94a3b8" stroke-width="1.8"/><line x1="17.5" y1="8.5" x2="12" y2="17" stroke="#94a3b8" stroke-width="1.8"/><line x1="6.5" y1="7" x2="12" y2="17" stroke="#94a3b8" stroke-width="1.8"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">LangGraph</text>
+        </g>
+        
+        <g transform="translate(240, 142)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#0f2b2b"/><path d="M6 12a3 3 0 0 1 3-3h1.5a3 3 0 0 1 3 3v0a3 3 0 0 1-3 3H9a3 3 0 0 1-3-3z" fill="#22c55e"/><path d="M10.5 12a3 3 0 0 1 3-3H15a3 3 0 0 1 3 3v0a3 3 0 0 1-3 3h-1.5a3 3 0 0 1-3-3z" fill="#10B981"/><circle cx="9" cy="12" r="1.5" fill="#ffffff"/><circle cx="15" cy="12" r="1.5" fill="#ffffff"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">LangChain</text>
+        </g>
+        
+        <g transform="translate(448, 142)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#ff5c35"/><circle cx="8" cy="8" r="2.2" fill="#ffffff"/><circle cx="16" cy="8" r="2.2" fill="#ffffff"/><circle cx="12" cy="16" r="2.2" fill="#ffffff"/><line x1="8" y1="8" x2="16" y2="8" stroke="#ffffff" stroke-width="1.5"/><line x1="8" y1="8" x2="12" y2="16" stroke="#ffffff" stroke-width="1.5"/><line x1="16" y1="8" x2="12" y2="16" stroke="#ffffff" stroke-width="1.5"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">CrewAI</text>
+        </g>
+        
+        <g transform="translate(656, 142)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#2e1065"/><path d="M6 18V9l4-3v6l4-3v9" stroke="#c084fc" stroke-width="2.2" fill="none" stroke-linejoin="round" stroke-linecap="round"/><circle cx="10" cy="6" r="2" fill="#38bdf8"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">LlamaIndex</text>
+        </g>
+        
+        <g transform="translate(32, 204)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M13.7 3.8l1.8-1.8a9.4 9.4 0 1 0 0 19l-1.8-1.8a6.8 6.8 0 1 1 0-15.4z" fill="#EE4C2C"/><circle cx="16.5" cy="5.8" r="1.8" fill="#EE4C2C"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">PyTorch</text>
+        </g>
+        
+        <g transform="translate(240, 204)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <circle cx="12" cy="12" r="10" fill="#FFD21E"/><circle cx="8.5" cy="10" r="1.5" fill="#000000"/><circle cx="15.5" cy="10" r="1.5" fill="#000000"/><path d="M8 14.5c1.2 2.2 6.8 2.2 8 0" stroke="#000000" stroke-width="2" fill="none" stroke-linecap="round"/><ellipse cx="5" cy="13.2" rx="1.6" ry="2.2" fill="#FF9D00"/><ellipse cx="19" cy="13.2" rx="1.6" ry="2.2" fill="#FF9D00"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">Hugging Face</text>
+        </g>
+        
+        <g transform="translate(448, 204)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#000000"/><path d="M7 19v-7c0-.5.4-1 1-1h1V8c0-.6.4-1 1-1h2c.6 0 1 .4 1 1v1h1c.6 0 1 .4 1 1v2h1c.6 0 1 .4 1 1v6h-2v-4h-2v4H7z" fill="#ffffff"/><circle cx="12" cy="9.5" r="0.9" fill="#000000"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">Ollama</text>
+        </g>
+        
+        <g transform="translate(656, 204)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#0f172a"/><path d="M6 6l6 12 6-12" stroke="#38bdf8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M9 6l3 6 3-6" stroke="#f97316" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">vLLM</text>
+        </g>
+        
+        <g transform="translate(32, 266)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect x="3" y="3" width="8" height="8" rx="2" fill="#DC2626"/><rect x="13" y="3" width="8" height="8" rx="2" fill="#EF4444"/><rect x="3" y="13" width="8" height="8" rx="2" fill="#B91C1C"/><rect x="13" y="13" width="8" height="8" rx="2" fill="#DC2626"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">Qdrant</text>
+        </g>
+        
+        <g transform="translate(240, 266)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#000000"/><path d="M12 4l3 3-3 3-3-3zM8 8l3 3-3 3-3-3zM16 8l3 3-3 3-3-3zM12 12l3 3-3 3-3-3z" fill="#00D084"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">Pinecone</text>
+        </g>
+        
+        <g transform="translate(448, 266)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <circle cx="7" cy="8" r="3.2" fill="#f43f5e"/><circle cx="17" cy="8" r="3.2" fill="#3b82f6"/><circle cx="12" cy="16" r="3.2" fill="#10b981"/><circle cx="7" cy="16" r="2" fill="#eab308"/><circle cx="17" cy="16" r="2" fill="#a855f7"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">ChromaDB</text>
+        </g>
+        
+        <g transform="translate(656, 266)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#090d16"/><path d="M4 7h16M4 12h10M4 17h16" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/><circle cx="18" cy="12" r="3" fill="#22c55e"/><path d="M17 12l1 1 2-2" stroke="#ffffff" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+            </g>
+            <!-- Bold readable AI tool name -->
+            <text x="46" y="29.5" class="b" font-size="13.5" font-weight="700" fill="#0f172a">RAG Pipelines</text>
+        </g>
+        
+    </svg>
