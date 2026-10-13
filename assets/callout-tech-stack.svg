@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 274" width="880" height="274" role="img" aria-label="Tech Stack: Core AI, Multi-Agent &amp; Backend Systems"><defs><style>.h{font-family:'Bebas Neue','Barlow Condensed','Oswald',Impact,'Arial Narrow',sans-serif;font-weight:700}.b{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}</style></defs><rect width="880" height="274" rx="16" fill="#070b18"/>
-    <rect x="1.5" y="1.5" width="877" height="271" rx="15" fill="#080e22" stroke="#2f6bff" stroke-width="2.2"/>
-    <text x="32" y="46" class="h" font-size="28" fill="#f4f7ff">CORE <tspan fill="#2f6bff">STACK.</tspan></text>
-    <text x="848" y="44" class="m" font-size="11" fill="#8391b8" letter-spacing="1.2" text-anchor="end">AI · AGENTIC WORKFLOWS · BACKEND · CLOUD</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250" role="img" aria-label="Tech Stack: Core AI, Multi-Agent &amp; Backend Systems"><defs><style>.h{font-family:'Bebas Neue','Barlow Condensed','Oswald',Impact,'Arial Narrow',sans-serif;font-weight:700}.b{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}</style></defs><rect width="880" height="250" rx="16" fill="#070b18"/>
+    <rect x="1.5" y="1.5" width="877" height="247" rx="16" fill="#0e1530" stroke="#1c2a50" stroke-width="2"/>
+    <rect x="0" y="16" width="5" height="40" rx="2.5" fill="#2f6bff"/>
+    <text x="32" y="34" class="m" font-size="12" font-weight="bold" fill="#2f6bff" letter-spacing="1.2">CORE TECHNOLOGIES</text>
+    <text x="848" y="34" class="m" font-size="11" fill="#8391b8" letter-spacing="1.2" text-anchor="end">AI · AGENTIC WORKFLOWS · BACKEND · CLOUD</text>
     
     <!-- Static grid of 12 essential core tools -->
     
-        <g transform="translate(32, 78)">
+        <g transform="translate(32, 52)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -18,7 +19,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Python</text>
         </g>
         
-        <g transform="translate(240, 78)">
+        <g transform="translate(240, 52)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -31,7 +32,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">OpenAI</text>
         </g>
         
-        <g transform="translate(448, 78)">
+        <g transform="translate(448, 52)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -44,7 +45,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Claude</text>
         </g>
         
-        <g transform="translate(656, 78)">
+        <g transform="translate(656, 52)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -57,7 +58,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">LangGraph</text>
         </g>
         
-        <g transform="translate(32, 140)">
+        <g transform="translate(32, 116)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -70,7 +71,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">LangChain</text>
         </g>
         
-        <g transform="translate(240, 140)">
+        <g transform="translate(240, 116)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -83,7 +84,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">PyTorch</text>
         </g>
         
-        <g transform="translate(448, 140)">
+        <g transform="translate(448, 116)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -96,7 +97,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Pinecone</text>
         </g>
         
-        <g transform="translate(656, 140)">
+        <g transform="translate(656, 116)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -109,7 +110,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">FastAPI</text>
         </g>
         
-        <g transform="translate(32, 202)">
+        <g transform="translate(32, 180)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -122,7 +123,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">PostgreSQL</text>
         </g>
         
-        <g transform="translate(240, 202)">
+        <g transform="translate(240, 180)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -135,7 +136,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Docker</text>
         </g>
         
-        <g transform="translate(448, 202)">
+        <g transform="translate(448, 180)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->
@@ -148,7 +149,7 @@
             <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">AWS</text>
         </g>
         
-        <g transform="translate(656, 202)">
+        <g transform="translate(656, 180)">
             <!-- Subtle shadow -->
             <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
             <!-- Crisp White Card Box -->

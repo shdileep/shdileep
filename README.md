@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=5" alt="Dileep Sai Galla - I build AI that ships." width="100%"/>
+<img src="assets/hero.svg?v=6" alt="Dileep Sai Galla - I build AI that ships." width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <img src="assets/section-live-apps.svg" width="100%" alt="Live Apps"/>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -29,39 +29,39 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-projects.svg" width="100%" alt="Featured Projects"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://galladileep.netlify.app/"><img src="assets/card-shubh-ai-studio.svg" width="100%" alt="Shubh AI Studio - Private Project"/></a>
-<br/><br/>
+<br/>
 <a href="https://zavran-ai.vercel.app/index.html"><img src="assets/card-zavran-ai.svg" width="100%" alt="Zavran AI"/></a>
-<br/><br/>
+<br/>
 <a href="https://github.com/shdileep/HireZeno-2.O"><img src="assets/card-hirezeno.svg" width="100%" alt="HireZeno 2.0"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-tech-stack.svg" width="100%" alt="Tech Stack"/>
 
-<br/><br/>
+<br/>
 
-<img src="assets/callout-tech-stack.svg?v=2" width="100%" alt="Tech Stack: Core AI, Multi-Agent &amp; Backend Systems"/>
+<img src="assets/callout-tech-stack.svg?v=3" width="100%" alt="Tech Stack: Core AI, Multi-Agent &amp; Backend Systems"/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-education.svg" width="100%" alt="Education"/>
 
-<br/><br/>
+<br/>
 
-<img src="assets/card-education.svg?v=2" width="100%" alt="VIT Chennai: Integrated M.Tech, Software Engineering - Graduated"/>
+<img src="assets/card-education.svg?v=3" width="100%" alt="VIT Chennai: Integrated M.Tech, Software Engineering - Graduated"/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-contact.svg" width="100%" alt="Let's Work Together"/>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -72,6 +72,6 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <img src="assets/footer.svg" width="100%" alt=""/>
