@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 274" width="880" height="274" role="img" aria-label="Tech Stack: Core AI, Multi-Agent &amp; Backend Systems"><defs><style>.h{font-family:'Bebas Neue','Barlow Condensed','Oswald',Impact,'Arial Narrow',sans-serif;font-weight:700}.b{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}</style></defs><rect width="880" height="274" rx="16" fill="#070b18"/>
+    <rect x="1.5" y="1.5" width="877" height="271" rx="15" fill="#080e22" stroke="#2f6bff" stroke-width="2.2"/>
+    <text x="32" y="46" class="h" font-size="28" fill="#f4f7ff">CORE <tspan fill="#2f6bff">STACK.</tspan></text>
+    <text x="848" y="44" class="m" font-size="11" fill="#8391b8" letter-spacing="1.2" text-anchor="end">AI · AGENTIC WORKFLOWS · BACKEND · CLOUD</text>
+    
+    <!-- Static grid of 12 essential core tools -->
+    
+        <g transform="translate(32, 78)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M12 2C8.7 2 6.7 3.4 6.7 5.8V8.6H12v.9H4.4C2.2 9.5.7 11.6.7 14.2c0 2.6 1.8 4.2 4.4 4.2h2.6V16c0-2.4 2-4.3 4.4-4.3h4.6V9c0-2.5-2.2-4.5-4.7-4.5zm-1.7 1.7a.9.9 0 1 1 0 1.8.9.9 0 0 1 0-1.8z" fill="#3776AB"/><path d="M12 22c3.3 0 5.3-1.4 5.3-3.8V15.4H12v-.9h7.6c2.2 0 3.7-2.1 3.7-4.7 0-2.6-1.8-4.2-4.4-4.2h-2.6V8c0 2.4-2 4.3-4.4 4.3H7.3v2.7c0 2.5 2.2 4.5 4.7 4.5zm1.7-1.7a.9.9 0 1 1 0-1.8.9.9 0 0 1 0 1.8z" fill="#FFD43B"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Python</text>
+        </g>
+        
+        <g transform="translate(240, 78)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3.2c1.2 0 2.3.4 3.2 1.1l-1.3 1.3c-.6-.4-1.2-.6-1.9-.6-2.1 0-3.8 1.7-3.8 3.8 0 .5.1 1 .3 1.4L7.1 13.6C6.7 13.1 6.4 12.5 6.4 12c0-3.1 2.5-5.6 5.6-5.6zm5.8 7.6c-.3 1.4-1.1 2.6-2.2 3.4l-1.3-1.3c.7-.5 1.2-1.3 1.4-2.1h2.1zm-7.6 4c-.7 0-1.4-.2-2-.6l1.3-1.3c.2.1.4.1.7.1 2.1 0 3.8-1.7 3.8-3.8 0-.5-.1-1-.3-1.4l1.4-1.4c.4.8.7 1.8.7 2.8 0 3.1-2.5 5.6-5.6 5.6z" fill="#10a37f"/><circle cx="12" cy="12" r="3" fill="#10a37f"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">OpenAI</text>
+        </g>
+        
+        <g transform="translate(448, 78)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <circle cx="12" cy="12" r="10" fill="#D97757"/><path d="M12 5.5v13M5.5 12h13M7.4 7.4l9.2 9.2M16.6 7.4l-9.2 9.2" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Claude</text>
+        </g>
+        
+        <g transform="translate(656, 78)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#0f172a"/><circle cx="6.5" cy="7" r="3" fill="#22c55e"/><circle cx="17.5" cy="8.5" r="2.8" fill="#3b82f6"/><circle cx="12" cy="17" r="3" fill="#a855f7"/><line x1="6.5" y1="7" x2="17.5" y2="8.5" stroke="#94a3b8" stroke-width="1.8"/><line x1="17.5" y1="8.5" x2="12" y2="17" stroke="#94a3b8" stroke-width="1.8"/><line x1="6.5" y1="7" x2="12" y2="17" stroke="#94a3b8" stroke-width="1.8"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">LangGraph</text>
+        </g>
+        
+        <g transform="translate(32, 140)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#0f2b2b"/><path d="M6 12a3 3 0 0 1 3-3h1.5a3 3 0 0 1 3 3v0a3 3 0 0 1-3 3H9a3 3 0 0 1-3-3z" fill="#22c55e"/><path d="M10.5 12a3 3 0 0 1 3-3H15a3 3 0 0 1 3 3v0a3 3 0 0 1-3 3h-1.5a3 3 0 0 1-3-3z" fill="#10B981"/><circle cx="9" cy="12" r="1.5" fill="#ffffff"/><circle cx="15" cy="12" r="1.5" fill="#ffffff"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">LangChain</text>
+        </g>
+        
+        <g transform="translate(240, 140)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M13.7 3.8l1.8-1.8a9.4 9.4 0 1 0 0 19l-1.8-1.8a6.8 6.8 0 1 1 0-15.4z" fill="#EE4C2C"/><circle cx="16.5" cy="5.8" r="1.8" fill="#EE4C2C"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">PyTorch</text>
+        </g>
+        
+        <g transform="translate(448, 140)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <rect width="24" height="24" rx="4" fill="#000000"/><path d="M12 4l3 3-3 3-3-3zM8 8l3 3-3 3-3-3zM16 8l3 3-3 3-3-3zM12 12l3 3-3 3-3-3z" fill="#00D084"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Pinecone</text>
+        </g>
+        
+        <g transform="translate(656, 140)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <circle cx="12" cy="12" r="11" fill="#059669"/><path d="M12 3.5 5.5 13.5h5.5l-1 7 7-10.5h-5.5z" fill="#ffffff"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">FastAPI</text>
+        </g>
+        
+        <g transform="translate(32, 202)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M12 2C6.5 2 2 6.5 2 12c0 3.8 2.1 7.1 5.3 8.8.4-.7.8-1.7.9-2.6-.5-.3-.9-.7-1.2-1.3-.8-1.5-.7-3.4.1-4.8.4-.7 1-1.3 1.7-1.7.2-.6.5-1.1.9-1.6 1.3-1.6 3.2-2.3 5.3-2.3 1.8 0 3.4.6 4.7 1.8 1.4 1.3 2.1 3 2.1 4.9 0 2-.8 3.8-2.3 5.1-.3.3-.6.5-.9.7.1.9.4 1.9.9 2.6C20 19.1 22 15.8 22 12c0-5.5-4.5-10-10-10z" fill="#336791"/><path d="M15.5 12.5c-.3 0-.6.1-.8.3-.3.3-.5.7-.5 1.2 0 .8.6 1.5 1.4 1.5.8 0 1.4-.7 1.4-1.5 0-.5-.2-.9-.5-1.2-.2-.2-.5-.3-1-.3z" fill="#ffffff"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">PostgreSQL</text>
+        </g>
+        
+        <g transform="translate(240, 202)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M22.5 10.5c-.3-.2-1.3-.3-2-.1-.4-.6-1.1-1.1-2-1.1-.3 0-.6.1-.8.2-.5-1.4-1.8-2.3-3.4-2.3v1h-2V6h-2v2.2H8V6H6v2.2H4V6H2v4.8c0 3.7 2.8 7 7.2 7 5.5 0 9.8-3.3 11-7.5.9.1 1.8-.1 2.3-.3z" fill="#2496ED"/><rect x="5.5" y="6.2" width="1.8" height="1.8" fill="#ffffff"/><rect x="8" y="6.2" width="1.8" height="1.8" fill="#ffffff"/><rect x="10.5" y="6.2" width="1.8" height="1.8" fill="#ffffff"/><rect x="8" y="4" width="1.8" height="1.8" fill="#ffffff"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Docker</text>
+        </g>
+        
+        <g transform="translate(448, 202)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <path d="M6.5 12.2l1.6-4.5h1.8l1.6 4.5h-1.3l-.4-1.4H7.9l-.4 1.4H6.5zm1.7-2.6h1.5l-.7-2.1h-.1l-.7 2.1zm5.5 2.6l1.8-5.3h1.2l1.2 3.8 1.2-3.8h1.2l1.8 5.3h-1.3l-1.1-3.6-1.2 3.6h-1.2l-1.2-3.6-1.1 3.6H13.7z" fill="#232F3E"/><path d="M5 16.5c4 2.6 10 2.6 14 0" stroke="#FF9900" stroke-width="2.2" fill="none" stroke-linecap="round"/><path d="M18.2 15l2 1.8-2.2 1.2z" fill="#FF9900"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">AWS</text>
+        </g>
+        
+        <g transform="translate(656, 202)">
+            <!-- Subtle shadow -->
+            <rect x="0" y="2" width="192" height="48" rx="10" fill="#000000" opacity="0.25"/>
+            <!-- Crisp White Card Box -->
+            <rect width="192" height="48" rx="10" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5"/>
+            <!-- Exact Authentic Brand Vector Icon -->
+            <g transform="translate(14, 12)">
+                <circle cx="12" cy="12" r="11" fill="#000000"/><path d="M8.5 7.5l8 10h1.5V7.5h-2v6.5l-6-7.5H8.5v10h1.8V7.5z" fill="#ffffff"/>
+            </g>
+            <!-- Bold readable tool name -->
+            <text x="46" y="29.5" class="b" font-size="14" font-weight="700" fill="#0f172a">Next.js</text>
+        </g>
+        
+    </svg>

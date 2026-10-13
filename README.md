@@ -47,9 +47,7 @@
 
 <br/><br/>
 
-<img src="assets/callout-ai-stack.svg" width="100%" alt="AI and Agentic Stack"/>
-<br/><br/>
-<img src="assets/callout-stack.svg" width="100%" alt="Production Stack"/>
+<img src="assets/callout-tech-stack.svg?v=2" width="100%" alt="Tech Stack: Core AI, Multi-Agent &amp; Backend Systems"/>
 
 <br/><br/>
 
@@ -57,7 +55,7 @@
 
 <br/><br/>
 
-<img src="assets/card-education.svg" width="100%" alt="VIT Chennai: Integrated M.Tech, Software Engineering (2021 – 2026)"/>
+<img src="assets/card-education.svg?v=2" width="100%" alt="VIT Chennai: Integrated M.Tech, Software Engineering - Graduated"/>
 
 <br/><br/>
 
