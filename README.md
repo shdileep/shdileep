@@ -1,7 +1,17 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=2" alt="Dileep Sai Galla - I build AI that ships." width="100%"/>
+<img src="assets/hero.svg?v=5" alt="Dileep Sai Galla - I build AI that ships." width="100%"/>
+
+</div>
+
+<br/>
+
+<img src="assets/section-live-apps.svg" width="100%" alt="Live Apps"/>
+
 <br/><br/>
+
+<div align="center">
+
 <a href="https://resume-ai-seven-phi.vercel.app/"><img src="assets/icons/resume.png" width="48" height="48" alt="Resume AI"/></a> &nbsp;
 <a href="https://github.com/shdileep/Draft-Outreach"><img src="assets/icons/draft-outreach.png" width="48" height="48" alt="Draft Outreach"/></a> &nbsp;
 <a href="https://rivera-gpt.vercel.app/"><img src="assets/icons/riveragpt.png" width="48" height="48" alt="RiveraGPT"/></a> &nbsp;
@@ -19,17 +29,13 @@
 
 </div>
 
-<br/>
-
-<img src="assets/callout-ai-stack.svg" width="100%" alt="AI and Agentic Stack"/>
-
 <br/><br/>
 
 <img src="assets/section-projects.svg" width="100%" alt="Featured Projects"/>
 
 <br/><br/>
 
-<a href="https://galladileep.netlify.app/"><img src="assets/card-shubh-ai-studio.svg" width="100%" alt="Shubh AI Studio - Private Portfolio"/></a>
+<a href="https://galladileep.netlify.app/"><img src="assets/card-shubh-ai-studio.svg" width="100%" alt="Shubh AI Studio - Private Project"/></a>
 <br/><br/>
 <a href="https://zavran-ai.vercel.app/index.html"><img src="assets/card-zavran-ai.svg" width="100%" alt="Zavran AI"/></a>
 <br/><br/>
@@ -37,16 +43,37 @@
 
 <br/><br/>
 
+<img src="assets/section-tech-stack.svg" width="100%" alt="Tech Stack"/>
+
+<br/><br/>
+
+<img src="assets/callout-ai-stack.svg" width="100%" alt="AI and Agentic Stack"/>
+<br/><br/>
 <img src="assets/callout-stack.svg" width="100%" alt="Production Stack"/>
+
+<br/><br/>
+
+<img src="assets/section-education.svg" width="100%" alt="Education"/>
+
+<br/><br/>
+
+<img src="assets/card-education.svg" width="100%" alt="VIT Chennai: Integrated M.Tech, Software Engineering (2021 – 2026)"/>
+
+<br/><br/>
+
+<img src="assets/section-contact.svg" width="100%" alt="Let's Work Together"/>
 
 <br/><br/>
 
 <div align="center">
 
-[Portfolio](https://galladileep.netlify.app/) &nbsp;|&nbsp; [GitHub](https://github.com/shdileep) &nbsp;|&nbsp; [Zavran AI](https://zavran-ai.vercel.app/index.html) &nbsp;|&nbsp; [Shubh AI Studio (Private Portfolio)](https://galladileep.netlify.app/)
+<a href="mailto:dileepgalla200056@gmail.com"><img src="assets/icons/mail.png" width="36" height="36" alt="Email" valign="middle"/> &nbsp; <b>dileepgalla200056@gmail.com</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/galla-dileep-sai-b85829390/" target="_blank"><img src="assets/icons/linkedin.png" width="36" height="36" alt="LinkedIn" valign="middle"/> &nbsp; <b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/shdileep" target="_blank"><img src="assets/icons/github.png" width="36" height="36" alt="GitHub" valign="middle"/> &nbsp; <b>GitHub</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://galladileep.netlify.app/" target="_blank"><img src="assets/icons/portfolio.png" width="36" height="36" alt="Portfolio" valign="middle"/> &nbsp; <b>Portfolio</b></a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="assets/footer.svg" width="100%" alt=""/>
