@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor and IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node & Python caches
+node_modules/
+__pycache__/
+*.py[cod]
