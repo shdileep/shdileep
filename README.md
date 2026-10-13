@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="I build AI that ships." width="100%"/>
+<img src="assets/hero.svg?v=2" alt="Dileep Sai Galla - I build AI that ships." width="100%"/>
 <br/><br/>
 <a href="https://resume-ai-seven-phi.vercel.app/"><img src="assets/icons/resume.png" width="48" height="48" alt="Resume AI"/></a> &nbsp;
 <a href="https://github.com/shdileep/Draft-Outreach"><img src="assets/icons/draft-outreach.png" width="48" height="48" alt="Draft Outreach"/></a> &nbsp;
