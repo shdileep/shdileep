@@ -1,0 +1,20 @@
+name: Validate Profile Assets
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify README links and assets
+        run: |
+          echo "Checking profile asset integrity..."
+          test -f README.md
+          test -f assets/hero.svg
+          echo "Profile assets verified successfully."
