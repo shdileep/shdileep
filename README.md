@@ -65,10 +65,10 @@
 
 <div align="center">
 
-<a href="mailto:dileepgalla200056@gmail.com"><img src="assets/icons/mail.png" width="36" height="36" alt="Email" valign="middle"/> &nbsp; <b>dileepgalla200056@gmail.com</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/galla-dileep-sai-b85829390/" target="_blank"><img src="assets/icons/linkedin.png" width="36" height="36" alt="LinkedIn" valign="middle"/> &nbsp; <b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/shdileep" target="_blank"><img src="assets/icons/github.png" width="36" height="36" alt="GitHub" valign="middle"/> &nbsp; <b>GitHub</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://galladileep.netlify.app/" target="_blank"><img src="assets/icons/portfolio.png" width="36" height="36" alt="Portfolio" valign="middle"/> &nbsp; <b>Portfolio</b></a>
+<a href="mailto:dileepgalla200056@gmail.com" title="Send Email"><img src="assets/icons/mail.png" width="36" height="36" alt="Email" valign="middle"/> &nbsp; <b>dileepgalla200056@gmail.com</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/galla-dileep-sai-b85829390/" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn"><img src="assets/icons/linkedin.png" width="36" height="36" alt="LinkedIn" valign="middle"/> &nbsp; <b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/shdileep" target="_blank" rel="noopener noreferrer" title="View GitHub Profile"><img src="assets/icons/github.png" width="36" height="36" alt="GitHub" valign="middle"/> &nbsp; <b>GitHub</b></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://galladileep.netlify.app/" target="_blank" rel="noopener noreferrer" title="Visit Portfolio"><img src="assets/icons/portfolio.png" width="36" height="36" alt="Portfolio" valign="middle"/> &nbsp; <b>Portfolio</b></a>
 
 </div>
 
