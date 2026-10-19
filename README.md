@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://resume-ai-seven-phi.vercel.app/"><img src="assets/icons/resume.png" width="48" height="48" alt="Resume AI"/></a> &nbsp;
-<a href="https://github.com/shdileep/Draft-Outreach"><img src="assets/icons/draft-outreach.png" width="48" height="48" alt="Draft Outreach"/></a> &nbsp;
+<a href="https://draft-outreach.vercel.app/"><img src="assets/icons/draft-outreach.png" width="48" height="48" alt="Draft Outreach"/></a> &nbsp;
 <a href="https://rivera-gpt.vercel.app/"><img src="assets/icons/riveragpt.png" width="48" height="48" alt="RiveraGPT"/></a> &nbsp;
 <a href="https://zuno-pied.vercel.app/"><img src="assets/icons/zuno.png" width="48" height="48" alt="Zuno"/></a> &nbsp;
 <a href="https://github.com/shdileep/Mess-Pehchaan"><img src="assets/icons/mess-pehchaan.png" width="48" height="48" alt="Mess Pehchaan"/></a> &nbsp;
