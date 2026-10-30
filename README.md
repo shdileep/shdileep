@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg?v=6" alt="Dileep Sai Galla - I build AI that ships." width="100%"/>
+<a href="https://galladileep.netlify.app/" target="_blank" rel="noopener noreferrer" title="Dileep Sai Galla - Portfolio"><img src="assets/hero.svg?v=6" alt="Dileep Sai Galla - I build AI that ships." width="100%"/></a>
 
 </div>
 
